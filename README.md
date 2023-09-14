@@ -7,4 +7,4 @@
 - I am a self-taught person, I like to learn and improve every day
 
 ### Technologies
-![JavaScript](https://img.shields.io/badge/=JavaScript=333333?style=flat8logo=javascript)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
