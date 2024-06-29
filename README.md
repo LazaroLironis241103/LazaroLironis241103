@@ -2,8 +2,8 @@
 <h2>Front-end Developer and future Full Stack Developer</h2>
 
 ### About Me
-- I am 19 years old and I am from La Plata, Argentina.
-- I am a front end developer and student to become full stack
+- I am 20 years old and I am from La Plata, Argentina.
+- I'm a web programming student and future front-end programmer
 - I am a self-taught person, I like to learn and improve every day
 
 ### Technologies
