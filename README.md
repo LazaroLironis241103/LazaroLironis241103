@@ -2,7 +2,7 @@
 <h2>Front-end Developer</h2>
 
 ### About Me
-- I am 20 years old and I am from La Plata, Argentina.
+- I am 21 years old and I am from La Plata, Argentina.
 - I'm a web programming student and future front-end programmer
 - I am a self-taught person, I like to learn and improve every day
 
